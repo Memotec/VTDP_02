@@ -1,0 +1,6 @@
+{
+  "name": "CNS/ATM Inventory",
+  "description": "Hệ thống quản lý và kiểm kê vật tư thông tin CNS/ATM tối giản, trực quan dành cho Đội Thông Tin",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
